@@ -1,0 +1,2 @@
+# NetworkCapability
+Make network requests
